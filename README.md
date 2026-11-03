@@ -4,9 +4,10 @@ CMSC 315 Unit 4 Discussion: Binary Search Trees using Python, recursive insertio
 
 ## Overview
 
-This project demonstrates the implementation of a Binary Search Tree (BST) using Python. It explores recursive insertion, searching, and in-order traversal operations.
+This will give you an example of how to implement a Binary Search Tree (BST) in Python. It discusses recursive insertion, searching and in-order traversal operations.
 
-A real-world example involving employee ID records was used to demonstrate how a BST organizes and retrieves data efficiently.
+To show how a BST can efficiently organize and retrieve data, a real-life example of employee ID records was used.
+
 
 ## Learning Objectives
 
@@ -86,15 +87,10 @@ py unit4_discussion.py
 
 ## Conclusion
 
-This assignment demonstrated how Binary Search Trees organize information using a hierarchical structure. Recursive insertion and searching allowed values to be placed and retrieved according to their relationship with the current node.
+This assignment showed the application of information hierarchy to Binary Search Trees. The recursive insertion and search operations enabled the values to be inserted and retrieved based on their relationship to the current node.
 
-In-order traversal demonstrated how a BST can produce sorted output without requiring an additional sorting algorithm.
+We saw how to use in-order traversal to get the output sorted without having to use any other sorting algorithm with a BST.
 
-The employee ID example illustrated how BSTs can be applied to real-world record management. The edge case tests also helped verify the correctness and reliability of the implementation.
+The example of the employee ID showed how BSTs can be used in a practical application of record management. The boundary value tests were also used to ensure the correctness and reliability of the implementation.
 
-## Technologies Used
 
-- Python 3.14.4
-- PyCharm
-- Binary Search Trees
-- Recursive Algorithms
